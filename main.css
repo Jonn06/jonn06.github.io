@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+img, embed, object, video {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+.page-header {
+  border-bottom: none;
+}
+
+.header {
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.featured {
+  text-transform: uppercase;
+}
+
+.text {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding-bottom: 10px;
+}
